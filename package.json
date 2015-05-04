@@ -1,0 +1,29 @@
+{
+  "name": "toolchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "domtastic": "^0.10.2",
+    "foxie-framework": "^1.0.0",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-include": "^1.1.1",
+    "gulp-jade": "^1.0.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-stylus": "^2.0.1",
+    "gulp-uglify": "^1.2.0",
+    "jade": "^1.9.2",
+    "test-module": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^2.2.1",
+    "gulp-load-plugins": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett",
+  "license": "MIT"
+}
